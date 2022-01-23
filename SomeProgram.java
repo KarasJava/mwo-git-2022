@@ -6,4 +6,9 @@ public class SomeProgram {
 public void manageTheSatellite() {
     // TODO implement
 }
+
+    public void manageFuelLvl(){
+	System.out.println("optimal lvl");
+}
+
 }
